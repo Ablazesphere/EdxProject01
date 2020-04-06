@@ -1,0 +1,40 @@
+body {
+  margin: 2px;
+  padding: 20px; }
+  body h3 {
+    border: 2px solid black;
+    text-align: center;
+    margin: 1px;
+    width: 300px; }
+  body .Questions {
+    padding-top: 2px;
+    padding-left: 4px;
+    width: auto;
+    margin: 1px; }
+    body .Questions .one {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .two {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .three {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .four {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .five {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .six {
+      border: 2px solid black;
+      background-color: #0073ff; }
+    body .Questions .seven {
+      border: 2px solid black;
+      background-color: #0073ff; }
+
+.links {
+  display: flex;
+  flex-wrap: wrap; }
+
+/*# sourceMappingURL=nesting.css.map */

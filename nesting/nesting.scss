@@ -1,0 +1,58 @@
+body {
+  margin: 2px;
+  padding: 20px;
+
+  h3 {
+    border: 2px solid black;
+    text-align: center;
+    margin: 1px;
+    width: 300px;
+  }
+
+  .Questions {
+    padding-top: 2px;
+    padding-left: 4px;
+    width: auto;
+    margin: 1px;
+
+    .one {
+      border: 2px solid black;
+      background-color: #0073ff;
+    }
+
+      .two {
+        border: 2px solid black;
+        background-color: #0073ff;
+      }
+
+        .three {
+          border: 2px solid black;
+          background-color: #0073ff;
+        }
+
+          .four {
+            border: 2px solid black;
+            background-color: #0073ff;
+          }
+
+            .five {
+              border: 2px solid black;
+              background-color: #0073ff;
+            }
+
+                .six {
+                  border: 2px solid black;
+                  background-color: #0073ff;
+                }
+
+                  .seven {
+                    border: 2px solid black;
+                    background-color: #0073ff;
+                  }
+  }
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+}

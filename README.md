@@ -107,7 +107,7 @@ Coronavirus. This page meets the requirement of using SCSS nesting.
 
 HTML page containing information on statistics of Coronavirus. This page meets
 the requirement of using SCSS inheritance. 'stats0.jpeg' 'stats1.jpeg'
-'stats2.jpeg' has been used.
+'stats2.jpeg' has been used. @media query has been used.
 
 --------------------------------------------------------------------------------
 ********************************************************************************

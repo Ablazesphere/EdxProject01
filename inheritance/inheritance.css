@@ -1,0 +1,22 @@
+@media (min-width: 500px) {
+  #one, #two, #three {
+    border: 2px solid #0073ff; } }
+@media (max-width: 499px) {
+  #one, #two, #three {
+    border: 2px solid red; } }
+
+body {
+  margin: 2px;
+  padding: 20px; }
+
+h3 {
+  border: 2px solid black;
+  text-align: center;
+  margin: 1px;
+  width: 300px; }
+
+.links {
+  display: flex;
+  flex-wrap: wrap; }
+
+/*# sourceMappingURL=inheritance.css.map */
